@@ -1,6 +1,6 @@
 # Restaurant Menu Performance — Q1 2023
 
-[![Restaurant menu performance dashboard — Q1 2023](dashboard-overview.png)]
+![Restaurant menu performance dashboard — Q1 2023](dashboard-overview.png)
 
 Sales concentration analysis across a 32-dish menu and 12,097 order lines, built to answer a single operational question: which dishes does the owner protect, and which ones does he look at again before the next menu print.
 
