@@ -27,7 +27,7 @@ An independent full-service restaurant owner has to decide where to put operatio
 
 He is **not** deciding what to remove. This data cannot support that decision, and the analysis does not pretend otherwise — see *What This Data Cannot Answer*.
 
-The owner needs three things answered in under two minutes:
+The owner needs two things answered in under two minutes:
 
 - Which dishes carry my revenue?
 - How much of my menu isn't working?
